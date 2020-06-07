@@ -1,0 +1,24 @@
+.black-brand {
+    color: black;
+}
+
+.nav-pad {
+    padding-top: 0.1rem ;
+    padding-bottom: 5rem;
+}
+
+.divisor-line {
+    position: fixed;
+    padding-top: 1rem;
+    border-top: 1px solid grey;
+    height: 1px;
+    width: 58%;
+    margin-left: 21%;
+    margin-right: 21%;
+}
+
+@media (min-width: 992px) {
+    .col-lg-3 {     
+        max-width: 20%;
+    }
+}
